@@ -7,7 +7,7 @@
 啟動 alfa-leetcode-api Docker 容器：
 
 ```bash
-docker run -p 3000:3000 alfaarghya/alfa-leetcode-api
+docker run -p 3000:3000 alfaarghya/alfa-leetcode-api:2.0.4
 ```
 
 ## 安裝與執行
